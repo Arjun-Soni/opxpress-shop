@@ -1,17 +1,11 @@
 # OpXpress - Your Ultimate Destination for Quick and Easy Shopping
 
 <p align="center">
-  <a href="<deployment-url>">
     <picture>
       <img src="./public/icon.png" height="128">
     </picture>
     <h1 align="center">OpXpress</h1>
-  </a>
 </p>
-
-## Links:
-
-- **Deployment URL:** <deployment-url>
 
 ## About the App:
 
@@ -118,8 +112,8 @@ Discover a world of convenience with OpXpress! Shop for the latest trends, hotte
 ### **Clone the repository:**
 
 ```bash
-git clone <github-url>
-cd OpXpress-shopping-app
+git clone https://github.com/Arjun-Soni/opxpress-shop
+cd opxpress-shop
 ```
 
 ### **Install the dependencies:**
@@ -148,11 +142,11 @@ bun run build
 
 #### Deployment Steps
 
-1. **Fork the Repository:** <github-url>
+1. **Fork the Repository:** https://github.com/Arjun-Soni/opxpress-shop
 2. Create a Vercel account if you haven't already.
 3. Once logged in, click on "New Project" in the Vercel dashboard.
 4. Select "Import Git Repository" and connect your GitHub account if prompted.
-5. Choose the forked repository (OpXpress-shopping-app) from your GitHub account.
+5. Choose the forked repository (opxpress-shop) from your GitHub account.
 6. Configure the project settings as needed.
 7. Add environment variables (Firebase credentials) in the Vercel dashboard.
 8. Click on "Deploy" and wait for the deployment process to complete.
